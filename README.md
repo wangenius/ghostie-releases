@@ -1,3 +1,1 @@
-# ghostie-releases
-
-this is the public releases repo for ghostie.
+# Ghostie Releases and Example

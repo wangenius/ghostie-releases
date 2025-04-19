@@ -1,0 +1,22 @@
+{
+  "name": "g-p",
+  "version": "1.0.0",
+  "description": "这是一组简单的Deno插件，用于文件操作，包括读取文本文件和Word文档。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^22.14.1",
+    "@types/puppeteer": "^5.4.7",
+    "dotenv": "^16.5.0",
+    "puppeteer": "^24.6.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
